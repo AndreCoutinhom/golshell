@@ -19,16 +19,4 @@ Pessoas idosas muitas vezes não usam computadores por opção. Há diversos pro
 
 * [EqualWeb ♿🛜 | Os idosos estão online, mas a internet é acessível para eles?](https://equalweb.com.br/os-idosos-estao-online-mas-a-internet-e-acessivel-para-eles/) 
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Visualizar PDF</h2>
-
-<embed src="http://exemplo.com/seu-arquivo.pdf" type="application/pdf" width="100%" height="600px" />
-
-</body>
-</html>
-
-
 ---
