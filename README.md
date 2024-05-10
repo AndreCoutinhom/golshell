@@ -18,5 +18,7 @@ Pessoas idosas muitas vezes não usam computadores por opção. Há diversos pro
 ## Estudos Relacionados
 
 * [EqualWeb ♿🛜 | Os idosos estão online, mas a internet é acessível para eles?](https://equalweb.com.br/os-idosos-estao-online-mas-a-internet-e-acessivel-para-eles/) 
+* [Diana Castilla 🥼🧠| Effect of Web navigation style in elderly users](https://www.sciencedirect.com/science/article/abs/pii/S0747563215302120)
+* [Happy 🧓😁| Benefícios da computação na terceira idade](https://happy.com.br/blog/importancia-da-inclusao-digital-na-terceira-idade/)
 
 ---
