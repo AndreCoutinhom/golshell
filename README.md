@@ -1,8 +1,9 @@
 <h1 align="center">
 
 <div>
-<img align="center" alt="lab" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
-<img align="center" alt="lab" height="55" width="55" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">
+  <img align="center" alt="lab" height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
+  <img align="center" alt="lab" height="55" width="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png">
+  <img align="center" alt="lab" height="55" width="55" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png">
 
 </div>
   
