@@ -131,13 +131,13 @@ Para ter acesso ao processo de construção no Colab, é só clicar [aqui](/Pyth
 
 ## Ideias para o futuro
 
-É da intenção do autor deste projeto que esse chatbot seja, futuramente, aplicado em uma extensão de navegação, para auxiliar pessoas idosas enquanto estão em um Browser.
+É da intenção do autor deste projeto que esse chatbot seja, futuramente, aplicado em uma extensão de navegação, para auxiliar pessoas idosas enquanto estão em um Browser. Além disso, incorporar o chat com um sistema de voz, permitirá abrir ainda mais o espaço acessível para pessoas idosas que possuem dificuldade de manipulação motora e/ou visão.
 
 ### Inspirações:
 
 <div align="center">
   
-  ## Harpa AI
+  ## [Harpa AI | Google Chrome](https://chromewebstore.google.com/detail/harpa-ai-agente-de-automa/eanggfilgoajaocelnaflolkadkeghjp?hl=pt-BR&pli=1)
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
@@ -146,11 +146,11 @@ Para ter acesso ao processo de construção no Colab, é só clicar [aqui](/Pyth
 Uma extensão do Google Chrome que consegue ler dados de páginas da web e sumarizar vídeos no YouTube.
 </div>
 
-<div align="center">
-
 ---
 
-  ## Aria
+<div align="center">
+
+  ## [Aria | Opera GX](https://www.opera.com/pt-br/features/aria)
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
@@ -161,9 +161,26 @@ Uma extensão do Opera GX que consegue interpretar, traduzir e pesquisar sobre t
 
 ---
 
+<div align="center">
+  
+  ## [Gemini Voice Assistant | AI Austin](https://www.youtube.com/watch?v=FmNz1y9EDns)
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+![image](https://github.com/AndreCoutinhom/golshell/assets/91290799/abe3475d-9d5c-4c6b-a75b-596bae3af1e5)
+
+Um script em Python com desenvolvimento transmitido pelo YouTube que complementa APIs da Google e da Open AI para criar um assistente de voz vinculado ao Gemini.
+
+</div>
+
+---
+
 ## Fundamentos
 
-Esse projeto foi baseado nos fundamentos tratados durante a Imersão_IA da [Alura](https://www.alura.com.br). A imersão fundamentou conceitos de LLM, uso do Gemini, uso do Google AI Studio, Programação em Python e desenvolvimento de chatbots.
+<img align="center" alt="lab" height="500" width="365" src="https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/hero.1715192575.webp">
+
+
+Esse projeto foi baseado nos fundamentos tratados durante a `Imersão_IA` da [Alura](https://www.alura.com.br). A imersão fundamentou conceitos de LLM, uso do Gemini, uso do Google AI Studio, Programação em Python e desenvolvimento de chatbots.
 
 Todo o conteúdo disponibilizado com algumas anotações pessoais do autor, estão disponíveis [neste repositório](https://github.com/AndreCoutinhom/alura_imersao_ia_gemini) do GitHub.
 
