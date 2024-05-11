@@ -127,6 +127,8 @@ while prompt != "golshell":
   prompt = input("Precisa de mais alguma coisa? Se não, escreva a palavra golshell: ")
 ```
 
+Para ter acesso ao processo de construção no Colab, é só clicar [aqui](/Python/Golshell.ipynb).
+
 ## Ideias para o futuro
 
 É da intenção do autor deste projeto que esse chatbot seja, futuramente, aplicado em uma extensão de navegação, para auxiliar pessoas idosas enquanto estão em um Browser.
