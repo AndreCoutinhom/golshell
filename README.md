@@ -32,6 +32,8 @@ Para ajudar pessoas que não estão acostumadas com o vocabulário do mundo digi
 
 ## O ChatBot
 
+![Golshell](/Golshell.gif)
+
 Com uma bela interface, alto nível de naturalidade de texto, contextos abertos e um sistema de instruções original, o Golshell serve como um guia turístico pelo mundo da Internet. Quando o usuário lhe pede algo, o Golshell faz o possível para que o usuário entenda o procedimento, mesmo que nunca tenha navegado pela Internet em toda a sua vida. 
 
 O sistema de instruções original, permite que o chatbot atribua uma palavra de respeito, atenção e carinho enquanto demonstra de forma instrutiva e passo a passo como realizar a ação que o usuário deseja. Além disso, o Golshell tende a sempre perguntar ao usuário se precisa de ajudas adicionais às já fornecidas, tentando sempre se certificar de que o usuário está confortável e satisfeito com seu resultado.
