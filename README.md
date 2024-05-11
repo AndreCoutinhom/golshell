@@ -32,7 +32,11 @@ Para ajudar pessoas que não estão acostumadas com o vocabulário do mundo digi
 
 ## O ChatBot
 
-![Golshell](/Golshell.gif)
+<div align="center">
+  
+  ![Golshell](/using_golshell.gif)
+
+</div>
 
 Com uma bela interface, alto nível de naturalidade de texto, contextos abertos e um sistema de instruções original, o Golshell serve como um guia turístico pelo mundo da Internet. Quando o usuário lhe pede algo, o Golshell faz o possível para que o usuário entenda o procedimento, mesmo que nunca tenha navegado pela Internet em toda a sua vida. 
 
